@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayurvenkat
-- 👀 I’m interested in Angular
-- 🌱 I’m currently learning Angular & Typescript
-- 💞️ I’m looking to collaborate on any projects concerning Angular
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning AWS, Jenkins, Docker & Kubernates
+- 💞️ I’m looking to collaborate on any projects concerning DevOps
 - 📫 How to reach me mayurvenkatram@gmail.com
 
 <!---
